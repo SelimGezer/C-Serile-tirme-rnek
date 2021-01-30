@@ -1,2 +1,2 @@
-İlgili Youtube Dersi İçin Aşağıdaki Linki Ziyaret Edebilirsiniz.
+İlgili Youtube Dersi İçin Linki Ziyaret Edebilirsiniz.
 https://www.youtube.com/watch?v=n1HNOGTXvhk
