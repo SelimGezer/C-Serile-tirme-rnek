@@ -25,7 +25,7 @@ public static class SaveLoadManager
 {
      public static void SavePlayer(KarakterData karakterData){
             BinaryFormatter bf=new BinaryFormatter();
-            FileStream fileStream = new FileStream(Application.persistentDataPath + "/player.txt", FileMode.Create);
+            FileStream fileStream = new FileStream(Application.persistentDataPath + "/player.txt", FileMode.Create); //Dosya Path, FilemMde
 
             bf.Serialize(fileStream, karakterData);
             fileStream.Close();
